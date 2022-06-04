@@ -89,3 +89,21 @@
   ![](images/terraformapply13.png)
 
   ![](images/terraformapply131.png)
+
+  ![](images/db14.png)
+
+  ![](images/efs14.png)
+
+  ![](images/instance14.png)
+
+  ![](images/asg14.png)
+
+  ![](images/alb14.png)
+
+  ![](images/targetgroup14.png)
+
+  ![](images/backendtf15.png)
+
+  ![](images/backendinit16.png)
+
+  ![](images/s3pic16.png)
